@@ -2,9 +2,9 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '🤖vira✿/bot🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag'; // Nama Instagramlu cok
-const whatsapplu = 'Wa.me/+6287877173955'; // Nomor whatsapplu cok
+const BotName = '🤖Dwi✿/bot🤖'; // Nama Bot Whatsapp
+const instagramlu = 'https://www.instagram.com/dw1_put'; // Nama Instagramlu cok
+const whatsapplu = 'Wa.me/+6288277589875'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Jam 11Siang—3Sore'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/CXLFv9R7S2O6YsOguCEqK4'; // OFFICIAL GRUP LU 1
 const grupch2 = 'Ngak punya'; // OFFICIAL GRUP LU 2
